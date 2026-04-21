@@ -19,3 +19,5 @@ j.	Access Control: primary graduate student (GG)
 k.	Software creation & maintenance: not applicable
 ## Goals
 The goal of this project is to quantify bone density in equine tibias and determine if it varies between sex and age. The second goal is to determine if there is a difference in the force required to fracture and if that relates to any changes in bone density. 
+## Hypothesis
+The hypothesis is that tibial bone density will be less in older females, and that bones with less density will fracture with less force. 
